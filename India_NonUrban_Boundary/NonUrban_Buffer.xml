@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20210405</CreaDate><CreaTime>09192400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Analysis Tools.tbx\MultipleRingBuffer" Date="20210405" Time="091924">MultipleRingBuffer CityBoundary D:\Soumya\CityShapefile\UrbanBuffer\UrbanBuffer3\UrbanBuffer3.shp 20 Kilometers distance NONE FULL</Process></lineage></DataProperties></Esri></metadata>
